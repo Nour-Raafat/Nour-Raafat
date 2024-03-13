@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nour-Raafat
 - 👀 I’m interested in Python, Data Science and Machine learning
-- 🌱 I’m currently learning Data Analysis in Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on Data Science and Machine Learning projects
 - 📫 How to reach me eagle321619@gmail.com
 
 <!---
